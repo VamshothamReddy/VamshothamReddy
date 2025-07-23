@@ -43,6 +43,13 @@ Currently seeking an entry-level opportunity where I can grow and contribute wit
 - Google Sheets
 - Power Query
 
+### Soft Skills
+- Analytical Thinking
+- Problem Solving
+- Team Collaboration
+- Business Process Improvement
+- Data-Driven Decision Making
+
 ---
 
 ## 💼 Experience
@@ -73,6 +80,14 @@ Currently seeking an entry-level opportunity where I can grow and contribute wit
 
 ---
 
+## 📜 Certifications
+
+- Data Science and Analytics Certification
+- Data Analyst Certification by ExcelR Solutions
+- Data Visualization Certification by IBM
+
+---
+  
 ## 🌐 Languages
 
 - English  
